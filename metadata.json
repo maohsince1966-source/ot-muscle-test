@@ -1,0 +1,6 @@
+{
+  "name": "OT解剖学 筋肉マスター",
+  "description": "作業療法士(OT)・理学療法士(PT)養成校の学生向け解剖学暗記＆クイズアプリ。肩甲帯・胸郭、骨盤・下肢、頸部・舌骨の3筋群を1つに統合し、起始・停止・神経・作用を完全攻略。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
